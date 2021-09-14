@@ -1,4 +1,4 @@
-- Original ✨Kryton✨ profil @Kryten2X4B-523P
+- Original ✨Kryton✨ profil
 - WEB developer
 
 <!---
