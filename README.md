@@ -7,12 +7,10 @@ You can click the Preview link to take a look at your changes.
 ## Web development technology 
 ```
 React, Redux, Vue
-
-For mobile: React Native, mongoDB
 ```
 ## Backend
 ```
-Php Symfony, Redis, NodeJS
+Php Symfony, Redis, NodeJS, ElasticSearch
 ```
 ## Testing
 ```
