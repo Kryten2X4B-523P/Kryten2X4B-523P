@@ -1,4 +1,4 @@
-✨WEB developer
+✨FullStack developer
 
 <!---
 Kryten2X4B-523P/Kryten2X4B-523P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
