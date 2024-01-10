@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Custom Work
 
-Visit my website: [Teoz.cz](https://www.teoz.cz)
+Visit: [Teoz.cz](https://www.teoz.cz)
 
 ## Web Development Technologies
 
