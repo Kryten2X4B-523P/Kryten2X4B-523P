@@ -18,7 +18,6 @@ Visit: [Teoz.cz](https://www.teoz.cz)
 ## Backend Technologies
 
 - Java
-- Spring
 - Redis
 - NodeJS
 - ElasticSearch
